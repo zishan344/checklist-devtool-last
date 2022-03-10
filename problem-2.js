@@ -5,11 +5,5 @@
 3. setTimeout
 4. setInterval
 5. getUserMedia()
-6. showOpenFilePicker()
-7.  */
-function isPrime(num) {
-  for (let i = 2; i * i <= num; i++) if (num % i === 0) return false;
-  return num > 1;
-}
-console.log(isPrime(9));
-console.log("hello world");
+6. showOpenFilePicker()  
+*/
